@@ -1,0 +1,30 @@
+{
+  "name": "react-native-bluetooth-info",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariyd/react-native-bluetooth-info.git"
+  },
+  "keywords": [
+    "react-native",
+    "bluetooth",
+    "connection state",
+    "connection listener",
+    "connection info"
+  ],
+  "author": "Dariy Dzyndra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dariyd/react-native-bluetooth-info/issues"
+  },
+  "homepage": "https://github.com/dariyd/react-native-bluetooth-info#readme",
+  "peerDependencies": {
+    "react": "16.0.0",
+    "react-native": "0.50.1"
+  }
+}
